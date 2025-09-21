@@ -20,7 +20,7 @@ Yo seguí mis investigaciones.
 
 Ya en la madrugada, camino a mi pieza escuché un jaleo en nuestra sala de estar. Y ahí estaban ya todos reunidos comiendo y celebrando. ¿Celebrando qué? me pregunté yo, pero rápidamente me pusieron al día.
 
-Habían interrogado a varias personas del personal y concluyeron que Fibali formaba parte de los Hijos de Zícara. Averiguaron quien había sido el chofer que había llevado a Bésir la noche anterior al intento de asesinato y le pidieron que los llevara al mismo lugar, ahí dieron con el supuesto novio de Fibali, quien, arrendaba la bodega de la posada donde trabajaba para reuniones clandestinas.
+Habían interrogado a varias personas del personal y concluyeron que Fibali formaba parte de los _Hijos de Zícara_. Averiguaron quien había sido el chofer que había llevado a Bésir la noche anterior al intento de asesinato y le pidieron que los llevara al mismo lugar, ahí dieron con el supuesto novio de Fibali, quien, arrendaba la bodega de la posada donde trabajaba para reuniones clandestinas.
 
 Cuando fueron a investigar la bodega resultó que había una reunión de los Hijos de Zícara en ese mismo momento, pero ellos los hecharon de forma relativamente pacífica. Fueron a buscar a Rynard y a Namu para asaltar el lugar. Por lo que cuentan fue una masacre, asesinaron al líder, a su capitán y a gran parte de una turba de seguidores, a quienes lograron sacarles información: Fibali va a ser iniciada en 2 días en algún lugar de la rivera norte del río Sagaro.
 
