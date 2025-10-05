@@ -1,3 +1,16 @@
+---
+title: Episodio 3 pt. 2
+description: Del Vergel a Rikemko
+date: '2011-03-14'
+license: CC BY-NC-ND
+lastmod: '2025-09-22'
+menu:
+    main: 
+        weight: -90
+        params:
+            icon: messages
+---
+
 - En puerto espiga  se sube tambiénal barco un bárbaro llamado Goro .
 
 - El segundo día de viaje encuentran un barco en llamas sin sobrevivientes excepto un joven bien silencioso, a quien rescatan, además encuentran y una caja con un cristal cúbico y una carta, que detalla que el joven, llamado Tyam está sentenciado a cumplir las órdenes de quien maneje el cristal. Rynard queda como custodio del cristal y de Tyam quien rápidamente manifiesta sus afanes destructivos.
