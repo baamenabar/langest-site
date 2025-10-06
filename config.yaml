@@ -1,6 +1,13 @@
 baseurl: https://langest.amenabar.de/
 languageCode: en-us
 theme: hugo-theme-stack
+
+taxonomies:
+  category: categories
+  tag: tags
+  location: locations
+  faction: factions
+  campaign: campaigns
 title: Langest Universe
 copyright: B. Agustín Amenabar L.
 
@@ -49,10 +56,13 @@ pagination:
 permalinks:
     post: /p/:slug/
     page: /:slug/
+    world: /w/:sections/:slug/
+    campaigns: /c/:sections/:slug/
 
 params:
     mainSections:
-        - post
+        - world
+        - campaigns
     featuredImageField: image
     rssFullContent: true
     favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
@@ -132,17 +142,33 @@ languages:
     es:
         menu:
             main:
-                - identifier: campanas
+                - identifier: world
+                  name: Mundo
+                  url: /world/
+                  weight: 10
+                - identifier: campaigns
                   name: Campañas
-                  url: /post/campaign_1/
-                  weight: -120
+                  url: /campaigns/
+                  weight: 20
+                - identifier: rules
+                  name: Reglas
+                  url: /rules/
+                  weight: 30
     en:
         menu:
             main:
+                - identifier: world
+                  name: World
+                  url: /world/
+                  weight: 10
                 - identifier: campaigns
                   name: Campaigns
-                  url: /post/campaign_1/
-                  weight: -120
+                  url: /campaigns/
+                  weight: 20
+                - identifier: rules
+                  name: Rules
+                  url: /rules/
+                  weight: 30
 
 social:
     - identifier: github
