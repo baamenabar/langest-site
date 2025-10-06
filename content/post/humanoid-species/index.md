@@ -1,3 +1,15 @@
+---
+title: "Especies Humanoides de Kebara"
+date: 2024-07-26
+description: "Una descripción de las diversas especies humanoides que habitan el mundo de Kebara, incluyendo humanos, orcos, elfos y más."
+tags:
+  - "Especies"
+  - "Worldbuilding"
+  - "Kebara"
+  - "Razas"
+categories:
+  - "Lore"
+---
 # Species
 
 Humanoid species in Kebara

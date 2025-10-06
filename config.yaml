@@ -44,7 +44,7 @@ languages:
 #         id:
 
 pagination:
-    pagerSize: 3
+    pagerSize: 12
 
 permalinks:
     post: /p/:slug/
@@ -126,15 +126,30 @@ params:
 ### Custom menu
 ### See https://stack.jimmycai.com/config/menu
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
-menu:
-    main: []
+menu: {}
 
-    social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/baamenabar/
-          params:
-              icon: brand-github
+languages:
+    es:
+        menu:
+            main:
+                - identifier: campanas
+                  name: Campañas
+                  url: /post/campaign_1/
+                  weight: -120
+    en:
+        menu:
+            main:
+                - identifier: campaigns
+                  name: Campaigns
+                  url: /post/campaign_1/
+                  weight: -120
+
+social:
+    - identifier: github
+      name: GitHub
+      url: https://github.com/baamenabar/
+      params:
+          icon: brand-github
 
 related:
     includeNewer: true

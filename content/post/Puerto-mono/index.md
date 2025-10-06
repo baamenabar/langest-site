@@ -1,32 +1,81 @@
-### Kaelen el Enviado del Rey Gorila
+---
+title: "Sesión 1: El Puerto de los Susurros y Sabotajes"
+date: 2024-07-28
+description: "Plan de sesión en Puerto Mono, donde los héroes deben enfrentarse al sabotaje de la Compañía del Kraken Negro y prepararse para el viaje, culminando con el encuentro con el Capitán Sombrero."
+tags:
+  - "Plan de Sesión"
+  - "Puerto Mono"
+  - "Amenaza de la Medusa"
+  - "Capitán Sombrero"
+categories:
+  - "Planificación de Campaña"
+---
 
-#### **Nombre:** **Kaelen "Manos de Piedra"**
+### **Sesión 1: "El Puerto de los Susurros y Sabotajes" (En Puerto Mono)**
 
-#### **Quién es:**
-Kaelen no es un noble ni un diplomático de corte. Es un veterano curtido, el **"Primer Explorador"** del Rey Gorila. Su título oficial es Jefe de la Vanguardia de Krit, pero en la práctica, es el líder de los *rangers* y espías que operan en las peligrosas fronteras de la isla. Se ganó su apodo "Manos de Piedra" por su habilidad para escalar los acantilados más traicioneros de Krit sin cuerda y por su reputación de ser inquebrantable bajo presión.
+El objetivo de esta sesión es transformar la simple tarea de "reparar el barco" en una carrera contra un enemigo invisible, estableciendo que hay fuerzas que activamente intentan detenerlos.
 
-#### **Trasfondo:**
-Nacido y criado en las comunidades pesqueras de Krit, Kaelen vio de primera mano la dureza de la vida y el liderazgo pragmático del Rey Gorila. No lucha por gloria, sino por la supervivencia de su gente. Ha pasado décadas cartografiando los mares del sur y conoce los rumores y peligros de la región mejor que nadie. El rey confía en él no por su linaje, sino por su lealtad probada y su crudo realismo. Fue él quien organizó la red de espías que ahora vigila los movimientos de Medusa y fue él quien identificó a los aventureros como la "apuesta más improbable pero necesaria" para tener una oportunidad contra la hechicera.
+#### **El Desafío: La Carrera por los Suministros**
 
-#### **Apariencia y Vestimenta:**
-* **Físico:** Es un hombre de unos 50 años, con un físico compacto y musculoso, forjado por una vida de remar, escalar y luchar. Tiene el rostro curtido por el sol y el viento salado, con profundas arrugas alrededor de sus ojos. Su cabello es una mata de color gris acero, corto y práctico, y luce una barba trenzada al estilo de los marineros de Krit.
-* **Vestimenta:** No usa ropas de corte. Viste de forma funcional y discreta para no llamar la atención en un puerto lleno de chusma. Lleva pantalones de lona encerada, botas altas de cuero de foca y una túnica de lana gruesa de color gris oscuro. Sobre ella, una capa de viaje con capucha, raída y manchada de sal, perfecta para camuflarse en las sombras de los muelles. Lo único que delata su rango es un pequeño broche de plata con forma de gorila que sujeta su capa, el emblema personal del rey.
-* **Equipo:** No lleva armadura pesada. Confía en una cota de malla ligera y bien aceitada que lleva bajo la túnica. A su cinturón cuelgan un hacha de mano de aspecto funcional y una daga larga. Lleva una mochila de cuero con equipo de supervivencia, mapas y una bolsa de dinero sorprendentemente pesada.
+Los héroes tienen el dinero del Rey Gorila, pero descubren que en Puerto Mono el dinero no es el único problema.
 
-#### **Personalidad y Manera de Hablar:**
-* **Directo y sin rodeos:** No pierde el tiempo con formalidades. Va directo al grano.
-* **Observador y Cauteloso:** Antes de acercarse a los héroes, los habrá estado observando durante al menos un día, evaluando sus fortalezas, debilidades y su dinámica como grupo.
-* **Pragmático, no idealista:** No les hablará de honor ni de gloria. Les hablará de supervivencia, de tácticas y del coste de la guerra. Respeta la fuerza y el ingenio por encima de los títulos.
-* **Lealtad Férrea:** Su lealtad al Rey Gorila y a la gente de Krit es absoluta. Verá a los aventureros como herramientas —herramientas muy capaces y valiosas, pero herramientas al fin y al cabo— para asegurar la supervivencia de su hogar.
-* **Voz:** Habla con una voz grave y tranquila, acostumbrada a no ser oída por el enemigo. Nunca levanta la voz, pero cada palabra tiene peso.
+1.  **El Primer Obstáculo: El Gremio de Carpinteros.**
+    * Al ir a contratar carpinteros para reparar "El Musgo", el maestro del gremio, un enano llamado **Borin MazoFirme**, se niega a trabajar para ellos. Está nervioso y evasivo.
+    * **La Pista:** Con una buena tirada de **Persuasión** o **Perspicacia (Insight)**, los PJs notarán que mira constantemente a un par de "matones portuarios" que vigilan desde una esquina. Si lo presionan, confesará en voz baja que la **"Compañía Naviera del Kraken Negro"** ha comprado la exclusividad de todos los astilleros y suministros de calidad, y que amenazaron a su familia si trabajaba para otros.
 
-#### **Con quién anda:**
-No viaja con un séquito llamativo. Lo acompañan dos personas que parecen simples marineros o mercenarios, pero que en realidad son su guardia de élite, los **"Vigías Silenciosos"** de Krit. Son hombres y mujeres de pocas palabras, expertos en el combate en espacios cerrados y en desaparecer entre la multitud. Mientras Kaelen habla con los héroes, sus dos acompañantes estarán vigilando el entorno, uno cerca y otro desde un tejado o un callejón cercano, asegurándose de que la conversación no sea interrumpida ni espiada.
+2.  **La Investigación: ¿Quién es el Kraken Negro?**
+    * Los PJs deben investigar a esta misteriosa compañía. Las pesquisas (tiradas de **Investigación** en los registros del puerto, **Engaño** o **Intimidación** con estibadores) revelan que la compañía apareció hace apenas unas semanas, pagando precios desorbitados por almacenes y contratos, y que su líder es un hombre escurridizo conocido solo como "El Administrador".
+    * **El Rastro:** Descubren que el "Kraken Negro" está acaparando no solo madera y brea, sino también suministros de invierno: pieles, aceite para lámparas y raciones concentradas. Es un sabotaje directo a su expedición.
 
-#### **Cómo se acerca a los Héroes:**
-No los citará en un lugar oficial. Se les acercará en un momento en que estén frustrados y en una situación vulnerable, por ejemplo:
-* Justo después de que el Gremio de Carpinteros se niegue a ayudarlos.
-* En una taberna de mala muerte, mientras discuten sobre cómo conseguir los suministros.
+3.  **La Confrontación: El Almacén del Kraken.**
+    * El rastro los lleva a un almacén fuertemente custodiado en el distrito portuario. Ahora tienen varias opciones:
+        * **Sigilo (Stealth):** Infiltrarse durante la noche para robar los materiales que necesitan. El almacén está lleno de trampas sonoras y guardias patrullando.
+        * **Diplomacia/Engaño (Deception/Persuasion):** Intentar hacerse pasar por nuevos reclutas o por comerciantes que quieren hacer un trato con "El Administrador".
+        * **Asalto Directo (Combate):** Enfrentarse a los guardias del Kraken Negro, que son mercenarios bien armados (la **Mano Salina** de Medusa).
+    * **El Jefe:** Dentro del almacén, se encuentran con "El Administrador", que resulta ser el **sacerdote acuático** que los estafó. En un combate, usará hechizos de agua y relámpagos, y estará protegido por varios de sus matones. Al ser derrotado, intentará escapar, pero dejará caer una pista crucial: una moneda con el emblema de una serpiente enroscada en un tridente, el símbolo de la flota de Medusa.
 
-Kaelen se sentará en su mesa sin ser invitado, con una jarra de cerveza en la mano, y dirá algo como:
-> *"He oído que buscan suministros para un viaje al sur. Y he oído que la Compañía del Kraken Negro les está haciendo la vida imposible. Mi señor y yo tenemos un interés común en que ese 'Kraken' se ahogue. Quizás podamos ayudarnos mutuamente."*
+4.  **La Resolución y la Salida:**
+    * Con los suministros recuperados, pueden terminar de reparar "El Musgo". Han superado el desafío, pero ahora saben con certeza que Medusa tiene agentes operando lejos de los fiordos y que están al tanto de su misión. La sensación de ser cazados los acompañará cuando finalmente zarpen.
+
+---
+
+### **Mecánicas de Navegación: "El Viaje como un Desafío de Habilidad"**
+
+Para que el viaje sea interactivo, usaremos un sistema de "Puntos de Progreso" y "Puntos de Peligro". El viaje se divide en 3 etapas:
+
+1.  **Costa de las Tormentas** (3 Puntos de Progreso para superar)
+2.  **Mar de las Brumas** (4 Puntos de Progreso para superar)
+3.  **Laberinto Glacial** (5 Puntos de Progreso para superar)
+
+**Roles en el Barco:** Cada día de navegación, el grupo asigna roles:
+* **Navegante:** Traza el curso.
+* **Timonel:** Dirige el barco.
+* **Vigía:** Otea el horizonte en busca de peligros y pistas.
+* **Maestre:** Mantiene la moral y el orden.
+
+**Tiradas de Habilidad Diarias (Ejemplo):**
+* **Navegante:** **Sabiduría (Supervivencia)** o **Inteligencia con Herramientas de Navegante**. Superar la tirada añade 1 Punto de Progreso.
+* **Timonel:** **Destreza (Vehículos Acuáticos)**. Fallar la tirada añade 1 Punto de Peligro.
+* **Vigía:** **Sabiduría (Percepción)**. Superar la tirada puede anular un Punto de Peligro generado ese día.
+* **Maestre:** **Carisma (Persuasión o Intimidación)**. Fallar la tirada añade 1 Punto de Peligro por baja moral o descuidos.
+
+**Consecuencias:**
+* **Puntos de Progreso:** Al acumular los necesarios, completan esa etapa del viaje.
+* **Puntos de Peligro:** Por cada 2 Puntos de Peligro acumulados, se desencadena un evento negativo: una tormenta que daña el barco, se pierden raciones, un encuentro con monstruos marinos, o se desvían del curso y pierden un día de viaje.
+
+---
+
+### **El Encuentro con el Capitán Sombrero**
+
+Este encuentro debe ser puramente atmosférico y narrativo, un momento de horror y revelación.
+
+* **La Puesta en Escena:** Ocurre en el corazón del **Mar de las Brumas**. La niebla es densa y antinatural, amortiguando todo sonido. El aire es gélido. De repente, los PJs escuchan un único y lúgubre tañido de campana que parece venir de todas partes y de ninguna. Una luz verde enfermiza se materializa en la distancia.
+* **La Aparición:** El **"Lamento de la Ahogada"** emerge de la niebla. No navega, se desliza. Su casco está cubierto de escarcha y percebes. Velas espectrales ondean sin viento. Su tripulación de no-muertos se mueve por la cubierta en un silencio sepulcral, observándolos.
+* **El Monólogo del Capitán:** El barco se detiene a unos 30 metros de "El Musgo". El Capitán Sombrero, una figura imponente con un tricornio cubierto de algas secas, se apoya en la barandilla. No grita, su voz resuena en la mente de los personajes, fría y rasposa como el hielo.
+    > *"Así que estos son los héroes que mi Señora mencionó. Los cachorros que el Rey Gorila ha soltado con un mapa inútil."* (Se ríe, un sonido seco como huesos rotos).
+    > *"Buscáis una isla de piedra, pero el reino de mi Señora ya no es de este mundo. Es una herida... un vacío que sangra frío. Vuestro papel y vuestra tinta solo os llevarán a una tumba de hielo, como a todos los demás."*
+    > (Hace una pausa, como si disfrutara de su confusión).
+    > *"Si de verdad queréis encontrarla, dejad de buscar. Empezad a *sentir*. Seguid el rastro del alma que se congela. Seguid la Fiebre. Ella es la única brújula que os guiará a casa."*
+* **El Regalo de Despedida:** Sin previo aviso, varias formas emergen del agua y trepan por el casco de "El Musgo": son **Espectros** o **Ahogados (Drowned Ones)**. Mientras los héroes se preparan para luchar, el Capitán Sombrero hace una leve reverencia burlona.
+    > *"Un pequeño obsequio... para el viaje."*
+* **La Desaparición:** El "Lamento de la Ahogada" se desliza hacia atrás y se desvanece en la niebla tan silenciosamente como apareció, dejando a los PJs luchando por sus vidas y con la terrible certeza de que su única guía a partir de ahora es la enfermedad de Entschi.

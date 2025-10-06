@@ -24,7 +24,39 @@ go.work.sum
 # env file
 .env
 
-.DS_Store
+# Hugo
+#
+# Generated public folder
+/public/
+
+# Transpiled CSS/JS, minified images, etc.
+/resources/
+
+# Hugo's cache directory
+hugo_stats.json
 .hugo_build.lock
 
-/public
+# Log files
+*.log
+*.hugo.log
+
+# Other
+#
+# OS-generated files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+.hugo_build.lock
+
+# Node dependencies
+/node_modules/
+/package-lock.json
+/yarn.lock
+
+# Editor/IDE directories
+.idea/
+*.sublime-project
+*.sublime-workspace
