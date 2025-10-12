@@ -1,19 +1,3 @@
----
-title: "Session 3: Diplomatic Investigations"
-date: "2023-01-03"
-description: "Lord Veriil continues his investigation into the assassination attempt against Lord Bésir."
-tags:
-  - "session log"
-  - "diplomacy"
-  - "investigation"
-  - "hijos de zícara"
-categories:
-  - "session logs"
-campaign:
-  - "campaign-1-the-escort-crew"
-aliases: ["session-3", "chapter-3"]
----
-
 # Chapter 3
 
 Otro largo día pero con muy pocos resultados.

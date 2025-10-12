@@ -7,6 +7,7 @@ taxonomies:
   tag: tags
   location: locations
   faction: factions
+  adventure: adventures
   campaign: campaigns
 title: Langest Universe
 copyright: B. Agustín Amenabar L.
@@ -22,11 +23,11 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: Langest Campaign Setting
         weight: 1
         params:
             sidebar:
-                subtitle: Example description
+                subtitle: Heroes shall be forged by ice
     zh-cn:
         languageName: 中文
         title: 演示站点
@@ -40,7 +41,7 @@ languages:
         weight: 3
         params:
             sidebar:
-                subtitlee: Ejemplo de descripción
+                subtitle: En hielo serán forjados los héroes
 
 # services:
 #     # Change it to your Disqus shortname before using
@@ -56,16 +57,18 @@ pagination:
 permalinks:
     post: /p/:slug/
     page: /:slug/
-    world: /w/:sections/:slug/
-    campaigns: /c/:sections/:slug/
+    world: /world/:section/:slug/
+    adventures: /adventures/:slug/
+    campaigns: /campaigns/:sections/:slug/
 
 params:
     mainSections:
         - world
+        - adventures
         - campaigns
     featuredImageField: image
     rssFullContent: true
-    favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon: /favicon.png
 
     footer:
         since: 2009
@@ -76,7 +79,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
+        emoji: ❄️
         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             enabled: true
@@ -138,7 +141,8 @@ params:
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu: {}
 
-languages:
+# Language-specific menu configurations
+languageMenus:
     es:
         menu:
             main:
@@ -146,13 +150,17 @@ languages:
                   name: Mundo
                   url: /world/
                   weight: 10
+                - identifier: adventures
+                  name: Aventuras
+                  url: /adventures/
+                  weight: 20
                 - identifier: campaigns
                   name: Campañas
                   url: /campaigns/
-                  weight: 20
-                - identifier: rules
-                  name: Reglas
-                  url: /rules/
+                  weight: 25
+                - identifier: mechanics
+                  name: Mecánicas
+                  url: /mechanics/
                   weight: 30
     en:
         menu:
@@ -161,13 +169,17 @@ languages:
                   name: World
                   url: /world/
                   weight: 10
+                - identifier: adventures
+                  name: Adventures
+                  url: /adventures/
+                  weight: 20
                 - identifier: campaigns
                   name: Campaigns
                   url: /campaigns/
-                  weight: 20
-                - identifier: rules
-                  name: Rules
-                  url: /rules/
+                  weight: 25
+                - identifier: mechanics
+                  name: Mechanics
+                  url: /mechanics/
                   weight: 30
 
 social:

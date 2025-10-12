@@ -1,19 +1,18 @@
 ---
-title: "World Mechanics and House Rules NOPE"
-description: "Learn about the game mechanics and house rules used in the Langest campaigns."
+title: "Game Mechanics NOPE"
+description: "Learn about the game mechanics and rules used in the Langest universe."
 menu:
   main:
-    identifier: rules
-    name: Rules
+    identifier: mechanics
+    name: Mechanics
     weight: 30
     params:
-      icon: compass
+      icon: archives
 ---
 
+# Game Mechanics
 
-# World Mechanics and House Rules
-
-This section outlines the game mechanics and house rules used in the Langest campaigns.
+This section outlines the game mechanics and rules used in the Langest universe.
 
 ## Heroics
 
@@ -25,6 +24,10 @@ Some Heroics can wield mystical energies and are called Emitters. The Agora inst
 
 Along with Heroics, creatures with special abilities have begun to emerge from wild areas. Some are common animals with special abilities, while others are monstrous beasts never seen before.
 
-## Other Rules
+## System Rules
 
-Additional house rules and mechanics will be documented here as the campaigns progress.
+The Langest universe uses a modified tabletop RPG system designed to support the unique elements of this world, including Heroics and their special abilities.
+
+## House Rules
+
+Additional house rules and mechanics specific to Langest campaigns will be documented here as they are developed and refined through gameplay.

@@ -1,17 +1,14 @@
 ---
 title: World mechanics and house rules
-description: Collection of notable differences of this world with other universes in regards to genral rules and mechanics.
+description: Collection of notable differences of this world with other universes in regards to general rules and mechanics.
 date: '2009-03-28'
-aliases:
-  - rules
-  - mechanics
 license: CC BY-NC-ND
 lastmod: '2024-12-22'
 menu:
     main: 
         weight: -90
         params:
-            icon: messages
+            icon: mechanics
 ---
 
 # Travel encounter tables
@@ -26,8 +23,8 @@ After each event roll a d20 and, if you hit a row that's not blank, run that enc
 
 Now we have a random encounter table that's perpetually shifting and adapting to our table, but adds a level of randomness to travel that makes sense in the larger story.
 
-# Crossbreeding accross the human species
+# Crossbreeding across the human species
 
-There is no mixing of species, in most occations there is not even pregnancy, when there is it rarely comes to term, when it does, the child won't have any children of their own, even if they make it to adulthood. 
+There is no mixing of species, in most occasions there is not even pregnancy, when there is it rarely comes to term, when it does, the child won't have any children of their own, even if they make it to adulthood.
 
-One huge exception, Humans and Orcs, it's often hard to know how pure or how mixed is a seemingly pure human or pure orc. Historically humans and elves could also have children, but after the calcine fever their ofspring were infertile.
+One huge exception, Humans and Orcs, it's often hard to know how pure or how mixed is a seemingly pure human or pure orc. Historically humans and elves could also have children, but after the calcine fever their offspring were infertile.

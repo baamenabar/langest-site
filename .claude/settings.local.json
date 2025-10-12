@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp -r /Users/aamenabar.admin/projects/fliin/langest-site/content/campaigns/campaign-2-amenaza-de-la-medusa /Users/aamenabar.admin/projects/fliin/langest-site/content/adventures/)",
+      "WebFetch(domain:localhost)",
+      "Bash(mkdir -p /Users/aamenabar.admin/projects/fliin/langest-site/content/campaigns)",
+      "Bash(mkdir -p /Users/aamenabar.admin/projects/fliin/langest-site/content/adventures/amenaza-de-la-medusa)",
+      "Bash(mkdir -p /Users/aamenabar.admin/projects/fliin/langest-site/content/campaigns/escort-crew-campaign/{sessions,characters,prep})",
+      "Bash(find /Users/aamenabar.admin/projects/fliin/langest-site/content -type f -name \"*.md\" -exec grep -l \"Introduction to the World\" {} ;)",
+      "WebFetch(domain:stack.jimmycai.com)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

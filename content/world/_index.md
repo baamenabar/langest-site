@@ -6,6 +6,9 @@ menu:
     identifier: world
     name: World
     weight: 10
+    params:
+      icon: compass
+layout: "single"
 ---
 
 # The World of Langest
