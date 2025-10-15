@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=vM18P0WKGFA&lc=Ugz-q9kF0DEiT12AKjB4AaABAg
 
 Try this. Create a 20 line table, all blank. Run your travel rules, but each time the party leaves a loose thread hanging from an event, add it to the first blank line on the table. They killed all the bandits but one? Add an assassin to the random encounter table. 
 
-After each event roll a d20 and, if you hit a row that's not blank, run that encounter and cross it off.
+After each event roll a d20 and, if you hit a row that's not blank, run that encounter and cross it off. 
 
 Now we have a random encounter table that's perpetually shifting and adapting to our table, but adds a level of randomness to travel that makes sense in the larger story.
 

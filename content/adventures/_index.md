@@ -6,6 +6,8 @@ menu:
     identifier: adventures
     name: Adventures
     weight: 20
+    params:
+      icon: tome
 ---
 
 # Adventure Modules
@@ -20,6 +22,13 @@ Investigate the growing supernatural threat of the mysterious Medusa entity. Thi
 **Themes:** Investigation, Naval Conflict, Political Intrigue
 **Key Locations:** Puerto Mono, Krit, Isla Calavera
 **Major Factions:** Order of the Silver Flame, Gorilla King's Forces, Medusa's Agents
+
+### [La Academia de Música (The Music Academy)](/adventures/music-school-in-peltosilta/)
+A tale of artistic ambition, organized crime, and religious extremism. Help the famous dwarf bard Hengric Laccon deal with the consequences of his burned-down music academy and the dangerous debt he owes to the Tzukay mafia.
+
+**Themes:** Urban Intrigue, Organized Crime, Debt Collection, Performance Arts
+**Key Locations:** Lafaria, El Vergel, Puerto Espiga, Puerto Rikemko
+**Major Factions:** Tzukay Mafia, Hijos de Zícara (Children of Zícara), Music Academy Patrons
 
 ---
 

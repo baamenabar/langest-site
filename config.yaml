@@ -146,14 +146,14 @@ languageMenus:
     es:
         menu:
             main:
+                - identifier: adventures
+                  name: Aventuras
+                  url: /adventures/
+                  weight: 5
                 - identifier: world
                   name: Mundo
                   url: /world/
                   weight: 10
-                - identifier: adventures
-                  name: Aventuras
-                  url: /adventures/
-                  weight: 20
                 - identifier: campaigns
                   name: Campañas
                   url: /campaigns/
@@ -165,14 +165,14 @@ languageMenus:
     en:
         menu:
             main:
+                - identifier: adventures
+                  name: Adventures
+                  url: /adventures/
+                  weight: 5
                 - identifier: world
                   name: World
                   url: /world/
                   weight: 10
-                - identifier: adventures
-                  name: Adventures
-                  url: /adventures/
-                  weight: 20
                 - identifier: campaigns
                   name: Campaigns
                   url: /campaigns/
