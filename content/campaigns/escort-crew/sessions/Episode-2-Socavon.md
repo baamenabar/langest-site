@@ -1,3 +1,28 @@
+---
+title: "Episode 2: El Socavón"
+date: "2009-06-04"
+game_date: "8307-09-15"
+description: "The party is enlisted by Lady Moniard to investigate and clear dangerous creatures from a sinkhole on her estate, leading to encounters with Duergar and elemental forces."
+campaign: "escort-crew"
+categories:
+  - "campaign-session"
+tags:
+  - "escort-crew"
+  - "session-log"
+  - "lady-moniard"
+  - "duergar"
+  - "underground-warfare"
+locations:
+  - "lomas-verdes"
+  - "socavon"
+  - "cordillera-roja"
+  - "montes-scadia"
+factions:
+  - "duergar"
+  - "cordillera-roja"
+  - "montes-scadia"
+---
+
 # Episodio 2: El Socavón
 
 > Hoy partimos de vuelta a nuestra finca, las noticias que nos han llegado son poco alentadoras. [...] Cuando íbamos saliendo del palacio del rey, nos hemos encontrado con los mercenarios de *Vereel Sangrebrava* y me pregunté en qué andarían, bastó que me preguntara eso para que Imowen Delasmilcanciones asusara a su chocobo y partiera hacia nuestra carroza, se asoma y en pocos momentos me lanza una cantidad de información sobre sus andanzas y Lady Haspen y Gabasá. Sólo alcancé a darle las gracias y a advertirle que tuviese mucho cuidado en andar divulgando ese tipo de cosas.

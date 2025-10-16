@@ -1,3 +1,27 @@
+---
+title: "Episode 1, Part 2: Betrayal and Assassination"
+date: "2009-06-02"
+game_date: "8307-08-30"
+description: "Political intrigue unfolds as Lord Bésir's betrayal is discovered, culminating in an assassination attempt on General Xemos during diplomatic negotiations."
+campaign: "escort-crew"
+categories:
+  - "campaign-session"
+tags:
+  - "escort-crew"
+  - "session-log"
+  - "betrayal"
+  - "assassination-attempt"
+  - "political-intrigue"
+locations:
+  - "paso-trigal"
+  - "villa-remanso"
+  - "puerto-santa-nodette"
+  - "windmark"
+factions:
+  - "tyrolia"
+  - "kosomos"
+---
+
 # Episode 1, Part 2
 
 **Agosto 30 de 8307**
@@ -15,7 +39,7 @@ Durante la recepción previa a la comida presenté a Imowen a Lady Moniard, y al
 
 Todos quedamos maravillados con la magnífica maqueta y lo que ésta representaba, hubo un aplauso espontáneo mientras todos nos acercamos a observar más de cerca.
 Luego de un rato Lady Moniard nos presentó formalmente a la bella Arquitecto, quien aparentemente también admira a Lady Moniard. El tiempo pasó entre halagos y comentarios que se hacían entre las tres mujeres, hasta que se hicieron las señas de pasar al comedor para disfrutar del banquete donde fuimos sentados junto a Lady Rhiannon.
-Durante la comida observé que a Bésir le llegó un mensaje traido por un mesero, sin leerlo lo guardó en su bolsillo, mientras hacía esto Imowen me hizo un gesto (un codazo) para que mirara con quien estaba cruzando miradas de asentimiento Lord Bésir, era nada menos que con Lady Haspen, una opulenta y desagradable condesa que se encontraba en la mesa. Bésir ignoró mi cara inquisitiva, como si no hubiese recibido nada, pensé que podría ser algún favor u ofrecimiento de lady Haspen que él quería manejar solo, después de todo soy sólo su secretario.
+Durante la comida observé que a Bésir le llegó un mensaje traído por un mesero, sin leerlo lo guardó en su bolsillo, mientras hacía esto Imowen me hizo un gesto (un codazo) para que mirara con quien estaba cruzando miradas de asentimiento Lord Bésir, era nada menos que con Lady Haspen, una opulenta y desagradable condesa que se encontraba en la mesa. Bésir ignoró mi cara inquisitiva, como si no hubiese recibido nada, pensé que podría ser algún favor u ofrecimiento de lady Haspen que él quería manejar solo, después de todo soy sólo su secretario.
 Al terminar la comida, el Rey hizo un gesto a Lady Rihannon y ésta nos condujo a la maqueta del puente donde se concertó un paseo para el día siguiente en la tarde para que el General Xemos y Lord Bésir se reunieran y negociaran los temas que tenían pendientes. Tras esto Bésir hizo una débil excusa y se retiró.
 Le encargué a Jamil que me mandara un sirviente de confianza para encargarle un asunto. Cuando llegó Imowen le ordenó que encontrara a Lord Bésir y nos lo hiciera saber.
 El rato pasó mientras manteníamos una animada conversación con Lady Moniard y Lady Rihannon quienes nos invitaron a tomar el desayuno en el famoso parque centenario.

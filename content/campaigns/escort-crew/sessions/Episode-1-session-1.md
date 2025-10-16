@@ -1,3 +1,25 @@
+---
+title: "Episode 1, Part 1: The Journey Begins"
+date: "2009-06-01"
+description: "Lord Bésir's diplomatic mission begins as he departs Blinos with an unusual escort, setting the stage for unexpected adventures and political intrigue."
+campaign: "escort-crew"
+game_date: "8307-08-26"
+categories:
+  - "campaign-session"
+tags:
+  - "escort-crew"
+  - "session-log"
+  - "diplomatic-mission"
+  - "besir"
+locations:
+  - "blinos"
+  - "san-vilor"
+  - "paso-trigal"
+factions:
+  - "tyrolia"
+  - "kosomos"
+---
+
 # Episode 1, Part 1
 
 **Agosto 26 de 8307**

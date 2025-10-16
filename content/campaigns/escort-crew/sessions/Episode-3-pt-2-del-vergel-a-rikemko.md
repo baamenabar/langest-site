@@ -1,18 +1,35 @@
 ---
-title: Episodio 3 pt. 2
-description: Del Vergel a Rikemko
-date: '2011-03-14'
+title: "Episode 3, Part 2: Del Vergel a Rikemko"
+date: "2011-04-26"
+description: "The dangerous journey to Puerto Rikemko reveals new companions, ancient plagues, and the mysterious Calcifying Fever threatening the realm."
+campaign: "escort-crew"
+categories:
+  - "campaign-session"
+tags:
+  - "escort-crew"
+  - "session-log"
+  - "calcifying-fever"
+  - "rocagua"
+  - "puerto-rikemko"
+  - "zhale"
+locations:
+  - "puerto-espiga"
+  - "rocagua"
+  - "puerto-rikemko"
+  - "aumelle-desert"
+factions:
+  - "armada-ordoche"
 license: CC BY-NC-ND
 lastmod: '2025-09-22'
 ---
 
-- En puerto espiga  se sube tambiénal barco un bárbaro llamado Goro .
+- En puerto espiga  se sube también al barco un bárbaro llamado Goro.
 
 - El segundo día de viaje encuentran un barco en llamas sin sobrevivientes excepto un joven bien silencioso, a quien rescatan, además encuentran y una caja con un cristal cúbico y una carta, que detalla que el joven, llamado Tyam está sentenciado a cumplir las órdenes de quien maneje el cristal. Rynard queda como custodio del cristal y de Tyam quien rápidamente manifiesta sus afanes destructivos.
 
 - Son perseguidos por días por unas carretas de viento con cientos de velas pequeñas que van en altura, cuando finalmente son alcanzados, cosa muy extraña considerando que La Esmeralda es por lejos la nave más rápida de Aumelle. Las carretas  son quemadas por el mago que va volando con una cuerda y una vela, en una arriesgada maniobra que casi le cuesta la vida, de haber medido algunos centímetros más habría sido un pedazo de carne colgando de esa vela, al mismo tiempo fueron atacados por hombres de las arenas con cuerdas disparadas a las ruedas y luego con reptiles corredores. Tyam demostró ser un arma mortífera, pero un poco peligrosa para usarse en un barco, causando incendios varios, obligando un a desvío para reponer el agua.
 
--Tyam tiene un sueño sobre los tiempos pasados hace milenios y sobre un cristal de fuego.
+- Tyam tiene un sueño sobre los tiempos pasados hace milenios y sobre un cristal de fuego.
 
 - A los pocos días llegan a Rocagua, donde descubren que una terrible enfermedad, la mítica Fiebre Calcina, ha matado al rey, a varios de sus hijos y a muchos más. Estiman que la peste salió de una grieta al final del valle, donde hay un cristal de sal gigante. El hijo mayor de Corellon, Rilos fué a buscar ayuda. La guardia de palacio estaba cuidando la entrada, pero desaparecieron hace algunos días.
 

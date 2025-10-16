@@ -1,3 +1,29 @@
+---
+title: "Episode 1 Summary: El Puente y el Diplomático"
+date: "8307-09-03"
+description: "Complete summary of Episode 1, documenting the diplomatic mission, betrayal, and the pursuit of Fibali and the Hijos de Zícara conspiracy."
+campaign: "escort-crew"
+categories:
+  - "campaign-session"
+  - "episode-summary"
+tags:
+  - "escort-crew"
+  - "session-log"
+  - "episode-summary"
+  - "diplomatic-mission"
+  - "hijos-de-zicara"
+  - "gabasá"
+locations:
+  - "san-vilor"
+  - "windmark"
+  - "grufgard"
+  - "quebrada-traicion"
+factions:
+  - "tyrolia"
+  - "kosomos"
+  - "hijos-de-zicara"
+---
+
 ## Episodio 1:
 
 # El Puente y el Diplomático.

@@ -1,3 +1,27 @@
+---
+title: "Episode 1, Part 3: Investigation and Revelation"
+date: "2009-06-03"
+game_date: "8307-09-02"
+description: "The party investigates the conspiracy behind the assassination attempt, uncovering the involvement of the Hijos de Zícara and planning to capture Fibali."
+campaign: "escort-crew"
+categories:
+  - "campaign-session"
+tags:
+  - "escort-crew"
+  - "session-log"
+  - "investigation"
+  - "hijos-de-zicara"
+  - "conspiracy"
+locations:
+  - "windmark"
+  - "grufgard"
+  - "rio-sagaro"
+factions:
+  - "hijos-de-zicara"
+  - "tyrolia"
+  - "kosomos"
+---
+
 # Episode 1, Part 3
 
 **2 de Septiembre de 8307**

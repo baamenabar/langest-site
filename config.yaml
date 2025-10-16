@@ -59,7 +59,6 @@ permalinks:
     page: /:slug/
     world: /world/:section/:slug/
     adventures: /adventures/:slug/
-    campaigns: /campaigns/:sections/:slug/
 
 params:
     mainSections:

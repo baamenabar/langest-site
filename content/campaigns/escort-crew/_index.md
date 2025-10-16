@@ -64,8 +64,8 @@ The campaign chronicles are organized chronologically, documenting the party's a
 
 Explore the detailed chronicles of the campaign:
 
-- [Session Index](/campaigns/escort-crew-campaign/sessions/) - Complete session archive
-- [Character Details](/campaigns/escort-crew-campaign/characters/) - Party member profiles and development
+- [Session Index](/campaigns/escort-crew/sessions/) - Complete session archive
+- [Character Details](/campaigns/escort-crew/characters/) - Party member profiles and development
 
 ## Adventures Encountered
 

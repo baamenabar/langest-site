@@ -1,3 +1,30 @@
+---
+title: "Lady Moniard's Commissions"
+date: "8307-09-15"
+description: "A comprehensive list of rare and exotic items that Lady Moniard is willing to pay handsomely for, ranging from magical components to ancient artifacts."
+campaign: "escort-crew"
+categories:
+  - "campaign-session"
+  - "reference"
+tags:
+  - "escort-crew"
+  - "lady-moniard"
+  - "commissions"
+  - "rare-items"
+  - "treasure-hunting"
+locations:
+  - "lomas-verdes"
+  - "kebara"
+  - "timares"
+  - "aumelle"
+factions:
+  - "lady-moniard"
+---
+
+# Lady Moniard's Commissions
+
+The following is the complete list of items that Lady Moniard has commissioned the party to acquire during their travels. Each item includes the offered payment, likely locations, and specific requirements for collection.
+
 <ul>
  <li>
 <h3>Mapa de L'angest</h3>

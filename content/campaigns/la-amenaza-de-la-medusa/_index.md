@@ -8,4 +8,9 @@ campaign: amenaza-de-la-medusa
 # Amenaza de la Medusa
 
 
----
+TO BE ADDED:
+
+- Session logs
+- Characters
+- Maps
+- Handouts

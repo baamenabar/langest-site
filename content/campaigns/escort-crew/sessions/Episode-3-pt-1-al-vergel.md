@@ -1,3 +1,30 @@
+---
+title: "Episode 3, Part 1: Hengric Laccon's Journey"
+date: "2011-03-17"
+game_date: "8307-09-17"
+description: "The party is hired to escort the famous dwarf bard Hengric Laccon, who owes a dangerous debt to the Tzukay mafia after his music academy was destroyed by the Hijos de Zícara."
+campaign: "escort-crew"
+categories:
+  - "campaign-session"
+tags:
+  - "escort-crew"
+  - "session-log"
+  - "hengric-laccon"
+  - "tzukay-mafia"
+  - "music-academy"
+  - "hijos-de-zicara"
+locations:
+  - "lafaria"
+  - "el-vergel"
+  - "puerto-espiga"
+  - "ejo"
+  - "bosque-emelet"
+  - "quilanto"
+factions:
+  - "tzukay-mafia"
+  - "hijos-de-zicara"
+---
+
 ## Episodio 3.
 # Hengric Laccon
 Imowen no fué al Socavón, se quedó con Lady Moniard que resultó ser una supervisora de su Órden, conversaron largamente de lo pasado y del futuro.
