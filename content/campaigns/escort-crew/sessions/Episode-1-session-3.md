@@ -1,4 +1,6 @@
-# Chapter 3
+# Episode 1, Part 3
+
+**2 de Septiembre de 8307**
 
 Otro largo día pero con muy pocos resultados.
 

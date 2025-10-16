@@ -1,6 +1,4 @@
-## Episodio 2:
-
-# El Socavón
+# Episodio 2: El Socavón
 
 > Hoy partimos de vuelta a nuestra finca, las noticias que nos han llegado son poco alentadoras. [...] Cuando íbamos saliendo del palacio del rey, nos hemos encontrado con los mercenarios de *Vereel Sangrebrava* y me pregunté en qué andarían, bastó que me preguntara eso para que Imowen Delasmilcanciones asusara a su chocobo y partiera hacia nuestra carroza, se asoma y en pocos momentos me lanza una cantidad de información sobre sus andanzas y Lady Haspen y Gabasá. Sólo alcancé a darle las gracias y a advertirle que tuviese mucho cuidado en andar divulgando ese tipo de cosas.
 > Pero sus noticias me dejaron pensando. Si son capaces de enfrentarse con sacerdotes de los hijos de Zícara y además develar la identidad oculta de una duquesa, pues tal vez sean capaces de asistir al Capitán Golú en limpiar lo que ha salido del socavón.

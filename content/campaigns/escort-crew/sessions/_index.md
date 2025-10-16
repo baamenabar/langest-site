@@ -11,7 +11,7 @@ This archive contains the chronological session logs from the Escort Crew campai
 ## Session Chronology
 
 ### Early Adventures (8307)
-- [Chapter 1: The Journey Begins](/campaigns/escort-crew-campaign/sessions/chapter-1/) - The party forms and begins the diplomatic mission
+- [Episode 1: The Journey Begins: Session 1](/campaigns/escort-crew-campaign/sessions/chapter-1/) - The party forms and begins the diplomatic mission
 - [Session 2](/campaigns/escort-crew-campaign/sessions/session-n2/) - Continued journey and complications
 - [Session 3](/campaigns/escort-crew-campaign/sessions/session-3/) - Further developments
 

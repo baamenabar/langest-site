@@ -1,7 +1,8 @@
 ---
-title: "Amenaza de la Medusa (The Medusa Threat)"
-description: "A growing threat emerges from the depths - an investigation and conflict adventure module centered on the mysterious Medusa entity."
-slug: "amenaza-de-la-medusa"
+title: "The Medusa Threat"
+description: "A growing threat emerges from the depths - an investigation and conflict adventure module centered on the mysterious Medusa."
+slug: "the-medusa-threat"
+adventure: the-medusa-threat
 tags:
   - "Adventure Module"
   - "Investigation"

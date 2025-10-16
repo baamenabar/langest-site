@@ -26,7 +26,7 @@ campaign: escort-crew
 
 ### **Malthus Heineken III**
 **Role:** Disguised Heroic
-**Background:** A Heroic and Emanador who travels disguised as a merchant. He rides a fine steed from the fjords and engages in trade and recipe-sharing wherever the party stops.
+**Background:** A Heroic and Emanator who travels disguised as a merchant. He rides a fine steed from the fjords and engages in trade and recipe-sharing wherever the party stops.
 
 ## Supporting Characters & Companions
 

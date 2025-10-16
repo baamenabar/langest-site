@@ -1,3 +1,5 @@
+# Episode 1, Part 1
+
 **Agosto 26 de 8307**
 
 Primer día de Viaje, ya nos hemos reunido con nuestra escolta, que ha resultado ser mucho menos común de lo que me esperaba. Pero supongo que la corta carrera de Lord Bésir como diplomático no alcanza como para asignarle soldados regulares.

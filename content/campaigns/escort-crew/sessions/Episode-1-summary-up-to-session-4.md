@@ -1,5 +1,8 @@
 ## Episodio 1:
+
 # El Puente y el Diplomático.
+
+**Este es el resumen de las aventuras del grupo. No sobreviven apuntes o cartas sobre lo ocurrido en la Sesión 4, y sus aventuras en Grufgard** 
 
 Se reunieron por primera vez en la taberna del Salón Rojo en el pueblo ribereño de San Vilor, en el reino de Tyrolia. Su fueron contratados para escoltar a Lord Bésir, hacia Windmark, la capital de Kosomos.
 
