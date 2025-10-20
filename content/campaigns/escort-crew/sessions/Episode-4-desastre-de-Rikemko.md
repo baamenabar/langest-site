@@ -15,10 +15,8 @@ tags:
 locations:
   - "puerto-rikemko"
   - "serrafelada"
-  - "peltosilta"
 factions:
   - "quinta-division-destrozada"
-  - "provincia-serrafelada"
 ---
 
 # El desastre de Rikemko
