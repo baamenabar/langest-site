@@ -1,18 +1,18 @@
 ---
-title: "Geography of Langest"
-description: "Explore the continents, regions, mountains, seas, and other notable geographical features of the world of Langest."
+title: "Geografía de Langest"
+description: "Explora los continentes, regiones, montañas, mares y otros accidentes geográficos notables del mundo de Langest."
 ---
 
-# Geography of Langest
+# Geografía de Langest
 
-The world of Langest features diverse geographical regions, from frozen wastes to temperate valleys, from towering mountain ranges to inland seas.
+El mundo de Langest presenta regiones geográficas diversas: desde páramos helados hasta valles templados, desde cordilleras imponentes hasta mares interiores.
 
-## Notable Regions
+## Regiones notables
 
-- **Kebara** - A vast continent with diverse landscapes
-- **Timares Mountains** - Home of the Knakam Dwarf Empire
-- **The Slag** - A region of cooled lava and toxic vapors
-- **Mammoth Steppes** - Cold plains inhabited by halflings and megafauna
-- **Sea of Beran** - An intricate inland sea
-- **Natanche Region** - The central region of Kebara
-- **Quaffer** - The ancient undead kingdom
+- **Kebara** - Un vasto continente con paisajes diversos
+- **Montes Timares** - Hogar del Imperio Enano de Knakam
+- **La Escoria (The Slag)** - Una región de lava enfriada y vapores tóxicos
+- **Estepas de los Mamuts** - Planicies frías habitadas por halflings y megafauna
+- **Mar de Beran** - Un intrincado mar interior
+- **Región de Natanche** - La región central de Kebara
+- **Quaffer** - El antiguo reino de los muertos vivientes

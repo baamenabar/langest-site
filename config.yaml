@@ -97,8 +97,10 @@ pagination:
 
 permalinks:
     page: /:slug/
-    world: /world/:section/:slug/
-    adventures: /adventures/:slug/
+    # `world` y `adventures` SIN permalink: el árbol de directorios ya produce
+    # las URLs correctas (/world/factions/x/, /adventures/<modulo>/x/). Los
+    # patrones anteriores duplicaban el segmento o aplanaban los módulos
+    # (/world/world/<slug-de-titulo>/, /adventures/background-the-medusa-threat/).
     # NOTA: `campaigns` NO necesita permalink — las URLs del árbol de
     # directorios (/campaigns/<campaña>/sessions/<slug>/) son exactamente las
     # deseadas. Un permalink `campaigns: /campaigns/:sections/:slug/` DUPLICA

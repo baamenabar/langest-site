@@ -1,23 +1,23 @@
-+++
-author = "BAAL"
-title = "The continent Kebara"
-date = "2010-03-11"
-description = "Main Features of the continent of Kebara."
-tags = [
-    "overview",
-    "kebara",
-    "continent",
-    "geography",
-    "politics",
-]
-categories = [
-    "geography",
-    "region",
-]
-aliases = ["kebara"]
-+++
+---
+author: "BAAL"
+title: "The continent Kebara"
+date: "2010-03-11"
+description: "Main Features of the continent of Kebara."
+tags:
+    - "overview"
+    - "kebara"
+    - "continent"
+    - "geography"
+    - "politics"
+categories:
+    - "geography"
+    - "region"
+locations:
+    - "kebara"
+aliases: ["kebara"]
+---
 
-# Geographic highligts
+# Geographic highlights
 
 Although it can't be considered a morphological continent, it is well established culturally.
 

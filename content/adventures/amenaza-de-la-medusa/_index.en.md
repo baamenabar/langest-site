@@ -1,23 +1,23 @@
 ---
 title: "The Medusa Threat"
 description: "A growing threat emerges from the depths - an investigation and conflict adventure module centered on the mysterious Medusa."
-slug: "the-medusa-threat"
-adventure: the-medusa-threat
+slug: "amenaza-de-la-medusa"
+adventure: amenaza-de-la-medusa
 layout: single
 tags:
   - "Adventure Module"
   - "Investigation"
   - "Naval Conflict"
   - "Medusa"
-  - "Puerto Mono"
+  - "puerto-mono"
 locations:
-  - "Puerto Mono"
-  - "Krit"
-  - "Isla Calavera"
+  - "puerto-mono"
+  - "krit"
+  - "isla-calavera"
 factions:
-  - "La Orden de la Llama Plateada"
-  - "Rey Gorila's Forces"
-  - "Medusa's Agents"
+  - "orden-llama-plateada"
+  - "fuerzas-del-rey-gorila"
+  - "agentes-de-la-medusa"
 ---
 
 # Amenaza de la Medusa (The Medusa Threat)
@@ -66,9 +66,7 @@ A network of corrupted individuals and supernatural servants working to advance 
 
 ## Resources for Game Masters
 
-- [Background and Lore](/adventures/amenaza-de-la-medusa/background/) - Historical context and world integration
-- [Key NPCs](/adventures/amenaza-de-la-medusa/npcs/) - Important characters and antagonists
-- [Organizations](/adventures/amenaza-de-la-medusa/factions/) - Detailed faction information and relationships
+- [Background and Lore](/en/adventures/amenaza-de-la-medusa/background/) - Historical context and world integration
 
 ## Campaign Integration
 

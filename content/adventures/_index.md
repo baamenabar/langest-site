@@ -1,37 +1,37 @@
 ---
-title: "Adventures in Langest"
-description: "Explore reusable adventure modules set in the world of Langest - story frameworks that can be adapted for different campaigns."
+title: "Aventuras de Langest"
+description: "Explora los módulos de aventura reutilizables ambientados en el mundo de Langest: arcos narrativos que pueden adaptarse a distintas campañas."
 ---
 
-# Adventure Modules
+# Módulos de Aventura
 
-Adventure modules provide reusable story frameworks, locations, NPCs, and plot hooks that can be adapted for different campaigns. These modules focus on specific threats, locations, or events in the world of Langest.
+Los módulos de aventura ofrecen arcos narrativos reutilizables —lugares, NPCs y ganchos de trama— que pueden adaptarse a distintas campañas. Estos módulos se centran en amenazas, lugares o eventos específicos del mundo de Langest.
 
-## Available Adventure Modules
+## Módulos disponibles
 
-### [Amenaza de la Medusa (The Medusa Threat)](/adventures/amenaza-de-la-medusa/)
-Investigate the growing supernatural threat of the mysterious Medusa entity. This module provides a framework for naval conflicts, political intrigue, and supernatural horror.
+### [Amenaza de la Medusa](/adventures/amenaza-de-la-medusa/)
+Investiga la creciente amenaza sobrenatural de la misteriosa entidad conocida como la Medusa. Este módulo ofrece un marco para conflictos navales, intriga política y horror sobrenatural.
 
-**Themes:** Investigation, Naval Conflict, Political Intrigue
-**Key Locations:** Puerto Mono, Krit, Isla Calavera
-**Major Factions:** Order of the Silver Flame, Gorilla King's Forces, Medusa's Agents
+**Temas:** Investigación, Conflicto Naval, Intriga Política
+**Lugares clave:** Puerto Mono, Krit, Isla Calavera
+**Facciones mayores:** Orden de la Llama Plateada, Fuerzas del Rey Gorila, Agentes de la Medusa
 
-### [La Academia de Música (The Music Academy)](/adventures/music-school-in-peltosilta/)
-A tale of artistic ambition, organized crime, and religious extremism. Help the famous dwarf bard Hengric Laccon deal with the consequences of his burned-down music academy and the dangerous debt he owes to the Tzukay mafia.
+### [La Academia de Música](/adventures/music-school-in-peltosilta/)
+Una historia de ambición artística, crimen organizado y extremismo religioso. Ayuda al famoso bardo enano Hengric Laccon a lidiar con las consecuencias de su academia de música incendiada y la peligrosa deuda que contrajo con la mafia Tzukay.
 
-**Themes:** Urban Intrigue, Organized Crime, Debt Collection, Performance Arts
-**Key Locations:** Lafaria, El Vergel, Puerto Espiga, Puerto Rikemko
-**Major Factions:** Tzukay Mafia, Hijos de Zícara (Children of Zícara), Music Academy Patrons
+**Temas:** Intriga Urbana, Crimen Organizado, Cobro de Deudas, Artes Escénicas
+**Lugares clave:** Lafaria, El Vergel, Puerto Espiga, Puerto Rikemko
+**Facciones mayores:** Mafia Tzukay, Hijos de Zícara, Mecenas de la Academia de Música
 
 ---
 
-## Adventure Modules vs Campaigns
+## Módulos vs Campañas
 
-**Adventure Modules** are reusable story frameworks that include:
-- Background lore and historical context
-- Key locations and NPCs
-- Major factions and their relationships
-- Plot hooks and adventure scenarios
-- Resources for Game Masters
+Los **módulos de aventura** son marcos narrativos reutilizables que incluyen:
+- Lore de trasfondo y contexto histórico
+- Lugares clave y NPCs
+- Facciones mayores y sus relaciones
+- Ganchos de trama y escenarios de aventura
+- Recursos para el Director de Juego
 
-**[Campaigns](/campaigns/)** document actual play experiences with specific character groups, including session logs, character development, and unique interpretations of these adventure modules.
+Las **[campañas](/campaigns/)** documentan la experiencia de juego real con grupos específicos de personajes: logs de sesión, desarrollo de personajes e interpretaciones únicas de estos módulos.

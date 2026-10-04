@@ -1,17 +1,18 @@
 ---
-title: "Music School"
-description: "Something is off in the soon to be inaugurated music school in Peltosilta."
-tags:
-  - "Adventure Module"
-  - "Investigation"
-locations:
-  - "Peltosilta"
-  - "The Damned Kingdoms"
-factions:
-  - "Hijos de Zícara"
-layout: "single"
+title: "La Academia de Música"
+description: "Algo no anda bien en la academia de música de Peltosilta, a punto de ser inaugurada."
+date: "2025-10-15"
+adventure: music-school-in-peltosilta
+status: borrador
+categories: [aventura]
+tags: [modulo-de-aventura, investigacion]
+locations: [peltosilta, the-damned-kingdoms]
+factions: [hijos-de-zicara]
+aliases: ["/adventures/music-school/"]
 ---
 
-# Music School
+# La Academia de Música
 
-Hengrick L'accon is a famous Dwarf bard.
+Hengrick L'accon es un bardo enano famoso.
+
+*Traducción en progreso; [versión en inglés](/en/adventures/music-school-in-peltosilta/).*
