@@ -1,5 +1,0 @@
-# baseURL = 'https://langest.amenabar.de/'
-# languageCode = 'en-us'
-# title = 'Langest'
-# [[module.imports]]
-# path = "hugo-theme-stack"

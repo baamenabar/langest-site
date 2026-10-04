@@ -1,8 +1,4 @@
 ---
-menu:
-    main:
-        name: Inicio
-        weight: -100
-        params:
-            icon: home
+title: "Universo de Langest"
+draft: false
 ---

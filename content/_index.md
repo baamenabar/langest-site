@@ -1,10 +1,4 @@
 ---
-menu:
-    main:
-        name: Home
-        weight: -100
-        params:
-            icon: home
 ---
 
 _**After the Battle of Ajnara, the world changed like never before.**_

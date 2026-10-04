@@ -1,13 +1,6 @@
 ---
 title: "Game Mechanics NOPE"
 description: "Learn about the game mechanics and rules used in the Langest universe."
-menu:
-  main:
-    identifier: mechanics
-    name: Mechanics
-    weight: 30
-    params:
-      icon: archives
 ---
 
 # Game Mechanics

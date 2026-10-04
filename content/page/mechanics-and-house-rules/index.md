@@ -4,11 +4,6 @@ description: Collection of notable differences of this world with other universe
 date: '2009-03-28'
 license: CC BY-NC-ND
 lastmod: '2024-12-22'
-menu:
-    main: 
-        weight: -90
-        params:
-            icon: mechanics
 ---
 
 # Travel encounter tables

@@ -1,13 +1,6 @@
 ---
 title: "World Mechanics and House Rules NOPE"
 description: "Learn about the game mechanics and house rules used in the Langest campaigns."
-menu:
-  main:
-    identifier: rules
-    name: Rules
-    weight: 30
-    params:
-      icon: compass
 ---
 
 

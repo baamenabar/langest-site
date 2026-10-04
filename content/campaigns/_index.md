@@ -1,13 +1,6 @@
 ---
 title: "Campaigns in Langest"
 description: "Follow the character-driven journeys of different adventuring parties as they explore the world of Langest."
-menu:
-  main:
-    identifier: campaigns
-    name: Campaigns
-    weight: 25
-    params:
-      icon: scroll
 ---
 
 # Campaigns in Langest

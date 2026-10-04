@@ -1,13 +1,6 @@
 ---
 title: "World of Langest"
 description: "Explore the expansive fantasy world of Langest, its geography, religions, factions, and species."
-menu:
-  main:
-    identifier: world
-    name: World
-    weight: 10
-    params:
-      icon: compass
 layout: "single"
 ---
 
