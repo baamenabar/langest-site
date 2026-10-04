@@ -15,7 +15,6 @@ locations:
   - "kebara"
 aliases: ["razas", "humanoides", "especies"]
 layout: "single"
-type: "page"
 ---
 
 # Species

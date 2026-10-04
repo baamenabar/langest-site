@@ -8,11 +8,6 @@ aliases:
   - contact
 license: CC BY-NC-ND
 lastmod: '2024-12-22'
-menu:
-    main: 
-        weight: -90
-        params:
-            icon: messages
 ---
 
 _**After the Battle of Ajnara, the world changed like never before.**_

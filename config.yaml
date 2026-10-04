@@ -1,5 +1,4 @@
 baseurl: https://langest.amenabar.de/
-languageCode: en-us
 theme: hugo-theme-stack
 
 taxonomies:
@@ -12,59 +11,105 @@ taxonomies:
 title: Langest Universe
 copyright: B. Agustín Amenabar L.
 
-# Theme i18n support
-# Available values: ar, bn, ca, de, el, en, es, fr, hu, id, it, ja, ko, nl, pt-br, th, uk, zh-cn, zh-hk, zh-tw
-DefaultContentLanguage: en
-
-# Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
-# This will make .Summary and .WordCount behave correctly for CJK languages.
+DefaultContentLanguage: es
 hasCJKLanguage: false
 
+# Menú principal por idioma (fuente única de verdad).
+# Los bloques `menu:` incrustados en los _index.md se retiraron para evitar
+# definiciones duplicadas; el bloque `languageMenus:` de la config anterior
+# NO era una clave de Hugo (se ignoraba) y se elimina.
 languages:
-    en:
-        languageName: English
-        title: Langest Campaign Setting
+    es:
+        languageName: Español
+        languageCode: es-ES
+        title: Universo de Langest
         weight: 1
         params:
             sidebar:
-                subtitle: Heroes shall be forged by ice
-    zh-cn:
-        languageName: 中文
-        title: 演示站点
+                subtitle: En hielo serán forjados los héroes
+        menu:
+            main:
+                - identifier: home
+                  name: Inicio
+                  url: /
+                  weight: -100
+                  params:
+                      icon: home
+                - identifier: intro
+                  name: Intro
+                  url: /intro/
+                  weight: 1
+                - identifier: world
+                  name: Mundo
+                  url: /world/
+                  weight: 10
+                - identifier: adventures
+                  name: Aventuras
+                  url: /adventures/
+                  weight: 20
+                - identifier: campaigns
+                  name: Campañas
+                  url: /campaigns/
+                  weight: 25
+                - identifier: mechanics
+                  name: Mecánicas
+                  url: /mechanics/
+                  weight: 30
+    en:
+        languageName: English
+        languageCode: en-US
+        title: Langest Campaign Setting
         weight: 2
         params:
             sidebar:
-                subtitle: 演示说明
-    es:
-        languageName: Español
-        title: Universo de Langest
-        weight: 3
-        params:
-            sidebar:
-                subtitle: En hielo serán forjados los héroes
-
-# services:
-#     # Change it to your Disqus shortname before using
-#     disqus:
-#         shortname: "hugo-theme-stack"
-#     # GA Tracking ID
-#     googleAnalytics:
-#         id:
+                subtitle: Heroes shall be forged by ice
+        menu:
+            main:
+                - identifier: home
+                  name: Home
+                  url: /
+                  weight: -100
+                  params:
+                      icon: home
+                - identifier: intro
+                  name: Intro
+                  url: /intro/
+                  weight: 1
+                - identifier: world
+                  name: World
+                  url: /world/
+                  weight: 10
+                - identifier: adventures
+                  name: Adventures
+                  url: /adventures/
+                  weight: 20
+                - identifier: campaigns
+                  name: Campaigns
+                  url: /campaigns/
+                  weight: 25
+                - identifier: mechanics
+                  name: Mechanics
+                  url: /mechanics/
+                  weight: 30
 
 pagination:
     pagerSize: 12
 
 permalinks:
-    post: /p/:slug/
     page: /:slug/
     world: /world/:section/:slug/
     adventures: /adventures/:slug/
+    # NOTA: `campaigns` NO necesita permalink — las URLs del árbol de
+    # directorios (/campaigns/<campaña>/sessions/<slug>/) son exactamente las
+    # deseadas. Un permalink `campaigns: /campaigns/:sections/:slug/` DUPLICA
+    # el segmento (:sections ya incluye 'campaigns').
+    # `post: /p/:slug/` se elimina junto con content/post/ (PR 5);
+    # cada página migrada lleva aliases de su URL anterior.
 
 params:
     mainSections:
-        - world
-        - adventures
         - campaigns
+    # Portada y widgets muestran la bitácora de campañas (decisión del dueño).
     featuredImageField: image
     rssFullContent: true
     favicon: /favicon.png
@@ -74,8 +119,8 @@ params:
         customText:
 
     dateFormat:
-        published: Jan 02, 2006
-        lastUpdated: Jan 02, 2006 15:04 MST
+        published: 02-01-2006
+        lastUpdated: 02-01-2006 15:04
 
     sidebar:
         emoji: ❄️
@@ -135,52 +180,6 @@ params:
         content:
             enabled: true
 
-### Custom menu
-### See https://stack.jimmycai.com/config/menu
-### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
-menu: {}
-
-# Language-specific menu configurations
-languageMenus:
-    es:
-        menu:
-            main:
-                - identifier: adventures
-                  name: Aventuras
-                  url: /adventures/
-                  weight: 5
-                - identifier: world
-                  name: Mundo
-                  url: /world/
-                  weight: 10
-                - identifier: campaigns
-                  name: Campañas
-                  url: /campaigns/
-                  weight: 25
-                - identifier: mechanics
-                  name: Mecánicas
-                  url: /mechanics/
-                  weight: 30
-    en:
-        menu:
-            main:
-                - identifier: adventures
-                  name: Adventures
-                  url: /adventures/
-                  weight: 5
-                - identifier: world
-                  name: World
-                  url: /world/
-                  weight: 10
-                - identifier: campaigns
-                  name: Campaigns
-                  url: /campaigns/
-                  weight: 25
-                - identifier: mechanics
-                  name: Mechanics
-                  url: /mechanics/
-                  weight: 30
-
 social:
     - identifier: github
       name: GitHub
@@ -198,6 +197,12 @@ related:
 
         - name: categories
           weight: 200
+
+        - name: locations
+          weight: 80
+
+        - name: factions
+          weight: 80
 
 markup:
     goldmark:

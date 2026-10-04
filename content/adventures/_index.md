@@ -1,13 +1,6 @@
 ---
 title: "Adventures in Langest"
 description: "Explore reusable adventure modules set in the world of Langest - story frameworks that can be adapted for different campaigns."
-menu:
-  main:
-    identifier: adventures
-    name: Adventures
-    weight: 20
-    params:
-      icon: tome
 ---
 
 # Adventure Modules
