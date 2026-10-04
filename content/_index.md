@@ -1,34 +1,37 @@
 ---
+title: 'Universo de Langest'
+draft: false
 ---
 
-_**After the Battle of Ajnara, the world changed like never before.**_
 
-The Musterians, Fathers of the Dwarves, simply vanished without a trace, leaving their children to fend for themselves.
+_**Luego de la Batalla de Ajnara, el mundo cambió como nunca lo había hecho.** _
 
-The elder elves knew of the coming and going of the ice, but they had never seen so much, nor so suddenly.
+Los Musterian, Padres de los Enanos, simplemente se fueron  sin dejar rastro, dejando a sus hijos abandonados a sus propios medios.
 
-Winters became a constant blizzard. The jungles were covered by a thick, dry cloud where only cold fell. In a few years, the jungles dried up and turned into cold, barren deserts.
+Los elfos mayores sabían del ir y venir de los hielos, pero nunca habían visto tanto ni tan repentinamente.
 
-Ice and drought brought hunger and refugees. Vast regions were abandoned in search of the few fertile areas. Many desired what little was available, thus began a series of conflicts, civil wars, and invasions, called the Hunger Wars.
+Los inviernos se convirtieron en una constante tormenta de nieve. Las selvas se cubrieron de una gruesa nube seca donde sólo caía frío. En pocos años las selvas se secaron y convirtieron en yermos desiertos fríos.
 
-With the wars came plagues, and among these, the most feared of all, the Calcining Fever, which in a few years killed all those who used magic, suffering a long and painful illness; without magic, the world faced the rest of the plagues defenseless and great cities were left desolate by mere colds.
+Hielo y sequía trajeron hambre y refugiados. Vastas regiones fueron desocupadas en busca de las pocas áreas fértiles. Muchos querían lo poco disponible, así comenzaron una serie de conflictos, guerras civiles e invasiones, llamadas las Guerras del Hambre.
 
-When the ice stopped advancing and settled, covering much of the world; between Tiblar and the Timares Mountains, _Gwaroom_ exploded, opening the earth from which gigantic rivers of liquid rock emerged. The silvery ash completely buried the remains of the Libam Empire. It erupted for 300 years, and the world was divided by the Timares Mountains.
+Con las guerras llegaron las pestes y entre estas, la más temida de todas, la Fiebre Calcina, que mató en pocos años a todo aquel que hiciera uso de la magia, sufriendo una enfermedad larga y dolorosa; sin magia el mundo se enfrentó al resto de las pestes sin defensas y grandes ciudades quedaron desoladas por meros resfríos.
 
-Among the few elves that remained, the almost forgotten _Children of Reina_ reappeared, who began to age and die.
+Cuando los hielos dejaron de avanzar y se asentaron, cubriendo gran parte del mundo; entre Tiblar y los Montes Timares explotó _Gwaroom_, abrió la tierra de donde salieron gigantescos ríos de roca líquida, la plateada ceniza sepultó completamente a los restos del Imperio Libam, hizo erupción durante 300 años, el mundo quedó dividido por los Montes Timares.
 
-Eight thousand years have passed since Ajnara, the empires and civilizations of yesteryear lie forgotten under the ashes of time. Great battles have been fought, empires have risen and fallen under their own yoke, tyrants and saints have lived, worked, and died. While the slow and constant renewal of the ice bears witness, generation after generation, to the struggle of the peoples of L'angest to survive and prosper in the few habitable regions; always under the close watch of the Seven.
+Entre los pocos elfos que quedaron volvieron a aparecer los casi olvidados _Hijos de Reina_, quienes comenzaron a envejecer y morir.
 
-Magic, magical beasts, and heroes are found only in legends and the imagination of children… … until recently…
+Ocho mil años han pasado desde Ajnara, los imperios y civilizaciones de antaño yacen olvidados bajo las cenizas del tiempo. Grandes batallas se han luchado, imperios han surgido y caído bajo su propio yugo, tiranos y santos han vivido, obrado y muerto. Mientras la lenta y constante renovación del hielo es testigo, generación tras generación, de la lucha de los pueblos de L’angest por sobrevivir y prosperar en las escasas regiones habitables; siempre bajo la cercana vigilancia de los Siete.
 
-Recently, some people have begun to manifest strange abilities when faced with extreme situations, which have allowed them to perform feats impossible for a normal being, for this reason they have been called _Heroics_.
+La magia, las bestias mágicas y los héroes se encuentran sólo en las leyendas y la imaginación de los niños… … hasta hace poco…
 
-At the same time, creatures with abilities similar to those of the _Heroics_ have begun to emerge from the wild areas, most of them are common animals with special abilities; but some places have been ravaged by monstrous beasts never seen before, and it is on these occasions that many _Heroics_ have made a name for themselves.
+Recientemente algunas personas han comenzado a manifestar extrañas habilidades al encontrarse en situaciones extremas, que les han permitido realizar hazañas imposibles para un ser normal, por esto se les ha llamado _Heroicos_.
 
-Some years ago, a group of Heroics, in Puerto Murén, founded the Agora, an institution that studies these abilities and teaches their use to those who possess them, particularly those who wield mystical energies, who have been called Emitters. Graduate students are highly sought after in the most varied areas of work, paying large sums to the Agora to _reserve_ them while they train.
+Al mismo tiempo han comenzado a emerger de las áreas salvajes creaturas con habilidades similares a las de los _heroicos_, la mayoría son animales comunes con capacidades especiales; pero algunos lugares han sido azolados por bestias monstruosas nunca antes vistas y es en estas ocasiones donde muchos _heroicos_ se han hecho renombre.
 
-In a few years, the Agora has grown immensely in power, influence, wealth, and number of members, which already has several hundred students. There is already a headquarters in the Spring Capital of Ordoche and the city of Selpisy has sponsored a headquarters in that place.
+Hace algunos años, un grupo de heroicos, en Puerto Murén, fundó el Ágora, una institución que estudia estas habilidades y enseña su uso a quienes las poseen, particularmente a los que manejan energías místicas, quienes han sido llamados Emisores, los alumnos graduados son altamente cotizados en las más variadas áreas del quehacer, pagando grandes sumas al Ágora para _reservarlos_ mientras se entrenan.
 
-> _Summary of chapter MCMXVII - From Ajnara to the Rise.  
-> Vademecum of L’angest, Volume VII  
-> Library of Sir Colin, City of Sigil._
+En pocos años el Ágora ha crecido inmensamente en poder, influencia, riqueza y número de miembros, que ya cuenta con varios centenares de alumnos. Ya existe una sede en la Capital de Primavera de Ordoche y la ciudad de Selpisy ha patrocinado una sede en ese lugar.
+
+> _Resumen del capítulo MCMXVII - De Ajnara al Surgimiento.  
+> Vademécum de  L’angest, Tomo VII  
+> Biblioteca de Sir Colin, Ciudad de Sigil._

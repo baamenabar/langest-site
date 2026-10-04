@@ -1,26 +1,28 @@
 ---
-title: "Game Mechanics NOPE"
-description: "Learn about the game mechanics and rules used in the Langest universe."
+title: "Mecánicas y reglas de la casa"
+description: "Mecánicas y reglas usadas en el universo de Langest."
+aliases:
+  - /rules/
 ---
 
-# Game Mechanics
+# Mecánicas
 
-This section outlines the game mechanics and rules used in the Langest universe.
+Esta sección reúne las mecánicas y reglas usadas en el universo de Langest.
 
-## Heroics
+## Heroicos
 
-Recently, some people have begun to manifest strange abilities when faced with extreme situations, which have allowed them to perform feats impossible for a normal being. These individuals are known as Heroics.
+Recientemente, algunas personas han comenzado a manifestar extrañas habilidades al encontrarse en situaciones extremas, que les han permitido realizar hazañas imposibles para un ser normal. Estos individuos se conocen como Heroicos.
 
-Some Heroics can wield mystical energies and are called Emitters. The Agora institution in Puerto Murén studies these abilities and teaches their use to those who possess them.
+Algunos Heroicos pueden manejar energías místicas y son llamados Emisores. La institución del Ágora, en Puerto Murén, estudia estas habilidades y enseña su uso a quienes las poseen.
 
-## Magical Creatures
+## Criaturas mágicas
 
-Along with Heroics, creatures with special abilities have begun to emerge from wild areas. Some are common animals with special abilities, while others are monstrous beasts never seen before.
+Junto con los Heroicos, han comenzado a emerger de las áreas salvajes criaturas con capacidades especiales. Algunas son animales comunes con habilidades especiales; otras son bestias monstruosas nunca antes vistas.
 
-## System Rules
+## Reglas del sistema
 
-The Langest universe uses a modified tabletop RPG system designed to support the unique elements of this world, including Heroics and their special abilities.
+El universo de Langest usa un sistema de rol de mesa modificado, diseñado para soportar los elementos únicos de este mundo, incluidos los Heroicos y sus habilidades especiales.
 
-## House Rules
+## Reglas de la casa
 
-Additional house rules and mechanics specific to Langest campaigns will be documented here as they are developed and refined through gameplay.
+Las reglas de la casa y mecánicas adicionales propias de las campañas de Langest se documentarán aquí a medida que se desarrollen y se refinan con el juego.
