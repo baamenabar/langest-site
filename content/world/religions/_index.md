@@ -1,15 +1,15 @@
 ---
-title: "Religions of Langest"
-description: "Learn about the gods, beliefs, and religious orders that shape the world of Langest."
+title: "Religiones de Langest"
+description: "Conoce los dioses, creencias y órdenes religiosos que moldean el mundo de Langest."
 ---
 
-# Religions of Langest
+# Religiones de Langest
 
-Religious beliefs and divine entities play a significant role in shaping the cultures and societies of Langest. From ancient gods to organized religious orders, faith permeates many aspects of daily life.
+Las creencias religiosas y las entidades divinas juegan un papel fundamental en la configuración de las culturas y sociedades de Langest. Desde dioses antiguos hasta órdenes religiosos organizados, la fe permea muchos aspectos de la vida cotidiana.
 
-## Notable Religious Elements
+## Elementos religiosos notables
 
-- **The Seven** - The principal deities who watch over the world
-- **The Imne** - Divine or semi-divine beings
-- **Order of the Silver Flame** - A prominent religious organization
-- **Zícara** - A guide for the elves after the Calcining Fever
+- **Los Siete** - Las deidades principales que vigilan el mundo
+- **Los Imne** - Seres divinos o semidivinos
+- **Orden de la Llama Plateada** - Una organización religiosa prominente
+- **Zícara** - Una guía para los elfos tras la Fiebre Calcina

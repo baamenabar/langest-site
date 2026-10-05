@@ -1,22 +1,19 @@
 ---
-title: "World of Langest"
-description: "Explore the expansive fantasy world of Langest, its geography, religions, factions, and species."
-layout: "single"
+title: "El Mundo de Langest"
+description: "Explora el extenso mundo de fantasía de Langest: su geografía, religiones, facciones y especies."
 ---
 
-# The World of Langest
+_**Luego de la Batalla de Ajnara, el mundo cambió como nunca lo había hecho.**_
 
-_**After the Battle of Ajnara, the world changed like never before.**_
+Los Musterian, Padres de los Enanos, simplemente se fueron sin dejar rastro, dejando a sus hijos abandonados a sus propios medios.
 
-The Musterians, Fathers of the Dwarves, simply vanished without a trace, leaving their children to fend for themselves.
+Los elfos mayores sabían del ir y venir de los hielos, pero nunca habían visto tanto ni tan repentinamente.
 
-The elder elves knew of the coming and going of the ice, but they had never seen so much, nor so suddenly.
+Los inviernos se convirtieron en una constante tormenta de nieve. Las selvas se cubrieron de una gruesa nube seca donde sólo caía frío. En pocos años las selvas se secaron y convirtieron en yermos desiertos fríos.
 
-Winters became a constant blizzard. The jungles were covered by a thick, dry cloud where only cold fell. In a few years, the jungles dried up and turned into cold, barren deserts.
+Explora los distintos aspectos del mundo:
 
-Explore the different aspects of the world:
-
-- [Geography](/world/geography/) - Continents, regions, and notable locations
-- [Religions](/world/religions/) - Gods, beliefs, and religious orders
-- [Factions](/world/factions/) - Organizations, empires, and political powers
-- [Species](/world/species/) - The diverse inhabitants of the world
+- [Geografía](/world/geography/) - Continentes, regiones y lugares notables
+- [Religiones](/world/religions/) - Dioses, creencias y órdenes religiosos
+- [Facciones](/world/factions/) - Organizaciones, imperios y poderes políticos
+- [Especies](/world/species/) - Los diversos habitantes del mundo

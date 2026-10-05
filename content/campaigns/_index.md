@@ -9,7 +9,7 @@ Campaigns chronicle the ongoing adventures of specific groups of characters as t
 
 ## Active Campaigns
 
-### [Escort Crew Campaign](/campaigns/escort-crew-campaign/)
+### [Escort Crew Campaign](/campaigns/escort-crew/)
 Follow Lord Bésir and his unusual escort as they navigate diplomatic missions that turn increasingly dangerous. Featuring Lord Veriil Sangrebava's detailed chronicles of their adventures.
 
 **Party Members:**

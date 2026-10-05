@@ -1,26 +1,24 @@
 ---
-title: "Species of Langest"
-description: "Learn about the various humanoid species and creatures that inhabit the world of Langest."
-#layout: "single"
-#type: "page"
+title: "Especies de Langest"
+description: "Conoce las diversas especies humanoides y criaturas que habitan el mundo de Langest."
 ---
 
-# Species of Langest
+# Especies de Langest
 
-Langest is home to diverse species, from commonplace humans to rare magical creatures.
+Langest alberga especies diversas: desde humanos comunes hasta criaturas mágicas raras.
 
-## [Humanoid Species](/world/species/humanoid-species/)
+## [Especies Humanoides](/world/species/humanoid-species/)
 
-- **Humans** - The most numerous and widespread species
-- **Dwarves** - Hardy folk who live in mountain kingdoms
-- **Elves** - Long-lived beings with a connection to nature
-- **Halflings** - Small folk native to the Mammoth Steppes
-- **Gnomes** - Clever folk with their own kingdom of Emik
+- **Humanos** - La especie más numerosa y extendida
+- **Enanos** - Pueblo recio que vive en reinos de montaña
+- **Elfos** - Seres longevos con una conexión con la naturaleza
+- **Halflings** - Pueblo pequeño originario de las Estepas de los Mamuts
+- **Gnomos** - Pueblo ingenioso con su propio reino, Emik
 
-For detailed information about humanoid species, see [Especies Humanoides de Kebara](/world/species/humanoid-species/).
+Para información detallada sobre las especies humanoides, ver [Especies Humanoides de Kebara](/world/species/humanoid-species/).
 
-## Notable Creatures
+## Criaturas notables
 
-- **Glacial Megafauna** - Including mammoths, cave bears, and saber-toothed tigers
-- **Buoyants** - Unique mammals that float in the air, including the rare Levion
-- **Heroics** - Beings with special abilities that have recently emerged
+- **Megafauna glacial** - Incluye mamuts, osos de las cavernas y tigres dientes de sable
+- **Flotantes (Buoyants)** - Mamíferos únicos que flotan en el aire, incluido el raro Levion
+- **Heroicos** - Seres con habilidades especiales que han surgido recientemente
