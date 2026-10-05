@@ -2,7 +2,7 @@
 title: "Amenaza de la Medusa"
 description: "Módulo de aventura: investigación y conflicto en torno a la misteriosa entidad conocida como la Medusa."
 date: "2025-10-20"
-adventure: amenaza-de-la-medusa
+modulo: amenaza-de-la-medusa
 status: en-curso
 categories: [aventura]
 tags: [modulo-de-aventura, investigacion, conflicto-naval, medusa]
@@ -44,8 +44,8 @@ Módulo de aventura que explora la creciente amenaza de la misteriosa entidad co
 
 ## Recursos
 
-- [Trasfondo y lore](/adventures/amenaza-de-la-medusa/background/) - Contexto histórico e integración con el mundo (traducción en progreso; [versión completa en inglés](/en/adventures/amenaza-de-la-medusa/background/))
-- [Plan de aventura: El Rastro Helado](/adventures/amenaza-de-la-medusa/rastro-helado/)
-- [Versión completa del módulo en inglés](/en/adventures/amenaza-de-la-medusa/)
+- [Trasfondo y lore](/modulos/amenaza-de-la-medusa/background/) - Contexto histórico e integración con el mundo (traducción en progreso; [versión completa en inglés](/en/modulos/amenaza-de-la-medusa/background/))
+- [Plan de aventura: El Rastro Helado](/modulos/amenaza-de-la-medusa/rastro-helado/)
+- [Versión completa del módulo en inglés](/en/modulos/amenaza-de-la-medusa/)
 
 _La naturaleza modular permite adaptarlo a distintos grupos, niveles de poder y estilos de campaña manteniendo el misterio y la amenaza centrales._

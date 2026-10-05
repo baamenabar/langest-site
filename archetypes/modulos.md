@@ -4,7 +4,7 @@ title: '{{ replace (strings.TrimSuffix "_index.md" .Name) "-" " " | title }}'
 description: ""
 date: '{{ .Date }}'
 draft: true
-adventure: '{{ path.Base .File.Dir }}'
+modulo: '{{ path.Base .File.Dir }}'
 status: borrador
 categories: [aventura]
 tags: []
@@ -17,7 +17,7 @@ title: '{{ replace (strings.TrimSuffix ".md" .Name) "-" " " | title }}'
 description: ""
 date: '{{ .Date }}'
 draft: true
-adventure: '{{ path.Base .File.Dir }}'
+modulo: '{{ path.Base .File.Dir }}'
 categories: [aventura]
 tags: []
 locations: []
