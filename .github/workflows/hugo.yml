@@ -1,0 +1,57 @@
+name: Deploy Hugo site to Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (con submódulos del tema)
+        uses: actions/checkout@v5
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Instalar Hugo 0.167.0 extended (versión exacta, pineada)
+        run: |
+          curl -sL -o /tmp/hugo.tar.gz \
+            https://github.com/gohugoio/hugo/releases/download/v0.167.0/hugo_extended_withdeploy_0.167.0_linux-amd64.tar.gz
+          tar -xzf /tmp/hugo.tar.gz -C /tmp hugo
+          sudo mv /tmp/hugo /usr/local/bin/hugo
+          hugo version
+
+      - name: Configurar Pages (lo habilita si aún no está activo)
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - name: Construir el sitio
+        run: hugo --minify --gc --cleanDestinationDir
+
+      - name: Subir artefacto
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Publicar en GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
