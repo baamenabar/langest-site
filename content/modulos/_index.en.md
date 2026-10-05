@@ -9,14 +9,14 @@ Adventure modules provide reusable story frameworks, locations, NPCs, and plot h
 
 ## Available Adventure Modules
 
-### [Amenaza de la Medusa (The Medusa Threat)](/adventures/amenaza-de-la-medusa/)
+### [Amenaza de la Medusa (The Medusa Threat)](/modulos/amenaza-de-la-medusa/)
 Investigate the growing supernatural threat of the mysterious Medusa entity. This module provides a framework for naval conflicts, political intrigue, and supernatural horror.
 
 **Themes:** Investigation, Naval Conflict, Political Intrigue
 **Key Locations:** Puerto Mono, Krit, Isla Calavera
 **Major Factions:** Order of the Silver Flame, Gorilla King's Forces, Medusa's Agents
 
-### [La Academia de Música (The Music Academy)](/adventures/music-school-in-peltosilta/)
+### [La Academia de Música (The Music Academy)](/modulos/music-school-in-peltosilta/)
 A tale of artistic ambition, organized crime, and religious extremism. Help the famous dwarf bard Hengric Laccon deal with the consequences of his burned-down music academy and the dangerous debt he owes to the Tzukay mafia.
 
 **Themes:** Urban Intrigue, Organized Crime, Debt Collection, Performance Arts

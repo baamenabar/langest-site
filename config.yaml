@@ -6,7 +6,7 @@ taxonomies:
   tag: tags
   location: locations
   faction: factions
-  adventure: adventures
+  modulo: modulos
   campaign: campaigns
 title: Langest Universe
 copyright: B. Agustín Amenabar L.
@@ -43,9 +43,9 @@ languages:
                   name: Mundo
                   url: /world/
                   weight: 10
-                - identifier: adventures
-                  name: Aventuras
-                  url: /adventures/
+                - identifier: modulos
+                  name: Módulos
+                  url: /modulos/
                   weight: 20
                 - identifier: campaigns
                   name: Campañas
@@ -79,9 +79,9 @@ languages:
                   name: World
                   url: /world/
                   weight: 10
-                - identifier: adventures
-                  name: Adventures
-                  url: /adventures/
+                - identifier: modulos
+                  name: Modules
+                  url: /en/modulos/
                   weight: 20
                 - identifier: campaigns
                   name: Campaigns

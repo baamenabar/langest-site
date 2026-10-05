@@ -2,7 +2,7 @@
 title: "La Academia de Música"
 description: "Algo no anda bien en la academia de música de Peltosilta, a punto de ser inaugurada."
 date: "2025-10-15"
-adventure: music-school-in-peltosilta
+modulo: music-school-in-peltosilta
 status: borrador
 categories: [aventura]
 tags: [modulo-de-aventura, investigacion]
@@ -15,4 +15,4 @@ aliases: ["/adventures/music-school/"]
 
 Hengrick L'accon es un bardo enano famoso.
 
-*Traducción en progreso; [versión en inglés](/en/adventures/music-school-in-peltosilta/).*
+*Traducción en progreso; [versión en inglés](/en/modulos/music-school-in-peltosilta/).*

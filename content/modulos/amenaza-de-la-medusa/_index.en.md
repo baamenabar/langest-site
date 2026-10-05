@@ -2,7 +2,7 @@
 title: "The Medusa Threat"
 description: "A growing threat emerges from the depths - an investigation and conflict adventure module centered on the mysterious Medusa."
 slug: "amenaza-de-la-medusa"
-adventure: amenaza-de-la-medusa
+modulo: amenaza-de-la-medusa
 layout: single
 tags:
   - "Adventure Module"
@@ -66,7 +66,7 @@ A network of corrupted individuals and supernatural servants working to advance 
 
 ## Resources for Game Masters
 
-- [Background and Lore](/en/adventures/amenaza-de-la-medusa/background/) - Historical context and world integration
+- [Background and Lore](/en/modulos/amenaza-de-la-medusa/background/) - Historical context and world integration
 
 ## Campaign Integration
 

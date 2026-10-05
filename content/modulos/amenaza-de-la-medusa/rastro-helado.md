@@ -2,7 +2,7 @@
 title: "Plan de Aventura: El Rastro Helado"
 description: "Plan de la sesión: el rastro helado hacia la Isla Calavera."
 date: "2025-10-20"
-adventure: amenaza-de-la-medusa
+modulo: amenaza-de-la-medusa
 categories: [aventura]
 ---
 
